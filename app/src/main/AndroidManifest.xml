@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.microsoft.testlib.testlib"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity android:name="com.microsoft.testlib.testlib.TestActivity"
+                  android:label="TEST">
+        </activity>
+    </application>
+
+</manifest>
